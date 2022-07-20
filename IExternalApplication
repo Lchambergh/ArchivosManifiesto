@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Assembly>PickInformation.dll</Assembly>
+		<ClientId>ac46d3f4-7cce-47ff-9f4c-ae8584018539</ClientId>
+		<FullClassName>PickInformation.App</FullClassName>
+		<Name>Pick Information</Name>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Luis Chambergo</VendorDescription>
+		<VisibilityMode>NotVisibleInFamily</VisibilityMode>
+		<Discipline>Any</Discipline>
+	</AddIn>
+</RevitAddIns>
